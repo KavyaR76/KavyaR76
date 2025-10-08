@@ -5,22 +5,29 @@ An Excel-based data analytics project designed to help Zomato make informed deci
 
 ## 📌 Project Overview
 
-The project analyzes over 9,500 restaurants across 15 countries to uncover trends in customer preferences, service performance, and regional gaps. By applying Excel-based techniques, we identify high-growth opportunities and provide data-backed recommendations for business expansion and customer retention.
+This project analyzes 9,000+ restaurants across 15 countries to uncover trends in customer preferences, service adoption, and regional performance gaps. Using Excel, the analysis provides data-backed recommendations for market expansion, cuisine strategy, and service enhancements to drive business growth and customer retention.
 
 ## 🧩 Objectives
 
-- Identify high-potential cities and cuisines for restaurant growth.
-- Analyze customer behavior through ratings, cost, and services like delivery or booking.
-- Guide strategic onboarding of new restaurant partners based on market trends.
+- Identify high-potential markets for expansion based on ratings, competition, and customer engagement.
+- Analyze the impact of online delivery and table booking on customer satisfaction.
+- Evaluate cuisine performance to guide restaurant partnerships and menu diversification.
 
 ## 🛠️ Tools & Techniques
 
-- Microsoft Excel (no external tools used)
-- Data Cleaning (removal of duplicates, correction of invalid values, standardization)
-- Functions Used: `IF`, `VLOOKUP`, `INDEX-MATCH`, `COUNTIF`, `AVERAGEIF`, `CONCATENATE`, `CORREL`, `DATE`etc.
-- Pivot Tables for aggregating KPIs
-- Charts: Column, Bar, Pie, and Line Charts for visualization
-- Conditional Formatting for highlighting performance
+- Tool: Microsoft Excel
+- Data Preparation: Cleaning, deduplication, currency standardization, and handling missing values.
+- Analytical Techniques:
+Exploratory Data Analysis (EDA)
+Gap Analysis (service and market gaps)
+SWOT Analysis (Strengths, Weaknesses, Opportunities, Threats)
+Comparative and Trend Analysis
+
+- Excel Features:
+Functions: VLOOKUP, COUNTIFS, AVERAGEIF, IF, CORREL
+PivotTables & PivotCharts
+Data Visualization: Bar charts, Line graphs, Pie charts
+Conditional Formatting for insight highlighting
 
 ## 📈 Key Insights
 
